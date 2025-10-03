@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Davi Ribeiro Araújo dos Anjos  
 
 💻 **Engenheiro de Software em formação** na Cruzeiro do Sul | CTO na **Dangelss**  
-🚀 Desenvolvedor Full-Stack com conhecimento em AWS.
-📲 Experiência **mais de 4 anos** de experiência em desenvolvimento de software.
+🚀 Desenvolvedor Full-Stack com conhecimento em AWS.  
+📲 Experiência **mais de 4 anos** de experiência em desenvolvimento de software.  
 
 ---
 
@@ -25,13 +25,11 @@
 🔹 [**Microserviço WhatsApp**](https://github.com/SEU-USER/whatsapp-service) – Envio e recebimento de mensagens automatizadas.  
 🔹 [**Landing Page Dangelss**](https://github.com/SEU-USER/landing-page) – Site institucional com geração de leads e assinaturas.  
 
-*(fixe esses projetos no seu perfil para aparecerem logo de cara!)*
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Devis GitHub stats](https://github-readme-stats.vercel.app/api?username=davidosanjoss&show_icons=true&theme=radical)  
+![Devis GitHub stats](https://github-readme-stats.vercel.app/api?username=davidosanjoss&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidosanjoss&layout=compact&theme=radical)  
 
 ---
