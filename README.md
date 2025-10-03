@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Davi Ribeiro Araújo dos Anjos  
 
 💻 **Engenheiro de Software em formação** na Cruzeiro do Sul | CTO na **Dangelss**  
-🚀 Apaixonado por desenvolvimento **Backend com Django & FastAPI** e **Frontend com Next.js**  
-📲 Experiência em **integrações com WhatsApp** e construção de sistemas escaláveis.  
+🚀 Desenvolvedor Full-Stack com conhecimento em AWS.
+📲 Experiência **mais de 4 anos** de experiência em desenvolvimento de software.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Dashboard Dangelss**](https://github.com/SEU-USER/dashboard) – Administração de usuários, permissões, métricas e assinaturas.  
+🔹 [**Dashboard Dangelss**](https://github.com/dangelss/dashboard) – Administração de usuários, permissões, métricas e assinaturas.  
 🔹 [**Microserviço WhatsApp**](https://github.com/SEU-USER/whatsapp-service) – Envio e recebimento de mensagens automatizadas.  
 🔹 [**Landing Page Dangelss**](https://github.com/SEU-USER/landing-page) – Site institucional com geração de leads e assinaturas.  
 
@@ -31,16 +31,16 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER&layout=compact&theme=radical)  
+![Devis GitHub stats](https://github-readme-stats.vercel.app/api?username=davidosanjoss&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidosanjoss&layout=compact&theme=radical)  
 
 ---
 
 ## 🌍 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/SEU-LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/davi-ribeiro-anjos)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-dangelss.com-2ea44f?logo=web)](https://dangelss.com)  
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:SEUEMAIL@exemplo.com)  
+[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:davi@dangelss.com)  
 
 ---
 
