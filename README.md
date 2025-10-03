@@ -41,9 +41,9 @@
 
 ## 🌍 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/davi-ribeiro-anjos)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-dangelss.com-2ea44f?logo=web)](https://dangelss.com)  
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:davi@dangelss.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/davi-ribeiro-anjos) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dangelss.com-2ea44f?logo=web)](https://dangelss.com) 
+[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:davi@dangelss.com) 
 
 ---
 
